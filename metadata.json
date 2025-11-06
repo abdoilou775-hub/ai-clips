@@ -1,0 +1,5 @@
+{
+  "name": "SmartClip",
+  "description": "An AI-powered video assistant that analyzes long-form videos to automatically generate short, viral-ready clips with titles, captions, and hashtags.",
+  "requestFramePermissions": []
+}
